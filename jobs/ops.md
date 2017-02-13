@@ -1,6 +1,6 @@
 [看其它職缺](/README.md)
 
-# 誠徵 Operations Engineer 一名
+# 誠徵資深 Operations Engineer 一名
 
 ![image](/images/recruit.jpg)
 照片來源：[Robert McGoldrick](https://www.flickr.com/photos/bobsfever/)
