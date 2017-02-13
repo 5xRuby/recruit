@@ -7,4 +7,3 @@
 - [App Developer](jobs/app-developer.md)
 - [各專業領域實習生](jobs/intern-2017.md)(至 2/15 截止)
 
-
