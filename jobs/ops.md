@@ -1,5 +1,8 @@
 # 誠徵 Operations Engineer 一名
 
+![image](/images/recruit.jpg)
+照片來源：[Robert McGoldrick](https://www.flickr.com/photos/bobsfever/)
+
 ## 物種
 
 全職 Operations Engineer 一名
