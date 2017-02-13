@@ -2,7 +2,7 @@
 
 # 誠徵 2017 首波各專業領域實習生
 
-![image](/images/5xruby-intern-banner.jpg)
+![image](/images/5xruby-intern-banner.png)
 
 ## 關於「五倍紅寶石」
 
